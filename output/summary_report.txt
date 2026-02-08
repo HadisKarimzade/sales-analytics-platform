@@ -1,0 +1,58 @@
+Total Revenue: 90958.14
+AOV: 678.79
+Customer Count: 49
+Top Category: Home & Garden
+Repeat Rate: 76.60%
+
+Status %:
+status
+completed    67.0
+pending      19.0
+cancelled    14.0
+Name: proportion, dtype: float64
+
+Monthly Revenue:
+m
+2023-01    9659.81
+2023-02    8722.55
+2023-03    2961.70
+2023-04    8414.77
+2023-05    7779.00
+2023-06    8466.50
+2023-07    9254.26
+2023-08    7768.73
+2023-09    8376.81
+2023-10    6834.63
+2023-11    5465.99
+2023-12    7253.39
+Name: order_amount, dtype: float64
+
+Monthly Growth %:
+m
+2023-01       NaN
+2023-02     -9.70
+2023-03    -66.05
+2023-04    184.12
+2023-05     -7.56
+2023-06      8.84
+2023-07      9.30
+2023-08    -16.05
+2023-09      7.83
+2023-10    -18.41
+2023-11    -20.03
+2023-12     32.70
+Name: order_amount, dtype: float64
+
+Avg Order Size:
+product_category
+Books            2.384615
+Clothing         2.682927
+Electronics      1.810811
+Home & Garden    2.619048
+Sports           2.682927
+Name: quantity, dtype: float64
+
+Outliers Count: 4
+
+Algorithms:
+{'merge_sort': 0.008010619999993196, 'sorted': 0.0002540210000177012, 'linear': 0.00038021500000695596, 'binary': 0.0002815490000216414}
